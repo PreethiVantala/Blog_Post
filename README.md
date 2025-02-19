@@ -4,7 +4,7 @@ This repository contains the implementation of my first **ETL (Extract, Transfor
 
 ## **📖 Blog Post Overview**
 
-In the blog post **[Building My First ETL Pipeline: Challenges and Learnings](#)**(https://medium.com/@vpr08101997/building-my-first-etl-pipeline-challenges-and-learnings-80255961c9dc), I cover:
+In the blog post **[Building My First ETL Pipeline: Challenges and Learnings](#)** (https://medium.com/@vpr08101997/building-my-first-etl-pipeline-challenges-and-learnings-80255961c9dc), I cover:
 - **What ETL is** and how it works.
 - The **tools and technologies** I used, such as **Python**, **Pandas**, **SQL**, and **Apache Airflow**.
 - The **challenges** I encountered (e.g., handling large datasets, data cleaning) and how I overcame them.
